@@ -11,7 +11,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/kr/pretty"
+	"github.com/roscopecoltran/pretty"
 )
 
 const (

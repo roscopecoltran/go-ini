@@ -1,0 +1,16 @@
+hash: a98cb611ab7ab3a01330b1657382d3c87250eb016a27e9e868de7df0deb58f3e
+updated: 2017-09-24T11:56:09.749462364+02:00
+imports:
+- name: github.com/kr/pretty
+  version: e6ac2fc51e89a3249e82157fa0bb7a18ef9dd5bb
+- name: github.com/kr/text
+  version: bb797dc4fb8320488f47bf11de07a733d7233e1f
+- name: github.com/pierrec/go-ini
+  version: e5919f8bb24619bdade0c1b49e1f540952aaed1e
+  subpackages:
+  - internal/structs
+- name: github.com/roscopecoltran/pretty
+  version: 7c8a86cd35d5016078949b88b6f16e1627b22b0d
+- name: github.com/spf13/cast
+  version: acbeb36b902d72a7a4c18e8f3241075e7ab763e4
+testImports: []
