@@ -3,5 +3,8 @@ import:
 - package: github.com/pierrec/go-ini
   subpackages:
   - internal/structs
-- package: github.com/roscopecoltran/pretty
+- package: github.com/kr/pretty 
+  repo: https://github.com/roscopecoltran/pretty.git 
+  version: sniperkit
+  vcs: git
 - package: github.com/spf13/cast
